@@ -201,3 +201,11 @@ p{
   margin: 20px 10px;
   color: #00FFFF;
 }
+.qr{
+  position: relative;
+  bottom: 20px;
+  left: 10px;
+  width: 150px;
+  height: 150px;
+  margin-top: 40px;
+}
